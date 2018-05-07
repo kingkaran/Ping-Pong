@@ -11,7 +11,7 @@ const paddle_thick = 10;
 const paddle_height = 100;
 var play1Score = 0;
 var play2Score = 0;
-const win_score = 5;
+const win_score = 3;
 
 var showWinScreen = true;
 
